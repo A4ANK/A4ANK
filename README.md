@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 📫 How to reach me: [![LinkedIn]( URL of ICON )](https://www.linkedin.com/in/a4ankur/) 
 -->
-
+- ⚡ I'm CKA, RHCS, LFCA
 - 🌱 I’m currently learning CNCF Landscape, DevSecOps 
 - 👯 I’m looking to collaborate on cloud computing projects
 - 💬 Ask me about K8s, Containers, linux, information security
