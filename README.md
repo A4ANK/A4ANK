@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [![LinkedIn]( URL of ICON )](https://www.linkedin.com/in/a4ankur/) 
 -->
 - ⚡ I'm CKA, RHCS, LFCA
-<!--- 🌱 I’m currently learning various projects in CNCF Landscape. -->
 - 👯 I’m looking to collaborate on cloud computing projects
 - 💬 Ask me about K8s, Containers, linux, information security
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/a4ankur/) 
