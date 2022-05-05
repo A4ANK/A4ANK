@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 📫 How to reach me: [![LinkedIn]( URL of ICON )](https://www.linkedin.com/in/a4ankur/) 
+- 👯 
+
 -->
-- ⚡ RHCA, CKA
-- 👯 I’m looking to collaborate on cloud computing projects
-- 💬 Ask me about K8s, Containers, linux, information security
+- ⚡ CKA
+- 💬 Ask me about K8s, Containers, cloud computing.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/a4ankur/) 
