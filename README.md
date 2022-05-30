@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 
 
 -->
-- ⚡ CKA RHCA*
+- ⚡ CKA, RHCA*
 - 💬 Ask me about K8s, Containers, cloud computing.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/a4ankur/) 
 
